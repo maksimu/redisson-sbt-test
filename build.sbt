@@ -2,7 +2,7 @@ name := "redisson-sbt-test"
 
 version := "0.1"
 
-scalaVersion := "2.12.4"
+scalaVersion := "2.11.11"
 
 // https://mvnrepository.com/artifact/org.redisson/redisson
 libraryDependencies += "org.redisson" % "redisson" % "3.5.4"

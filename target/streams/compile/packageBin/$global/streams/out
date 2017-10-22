@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/redisson-sbt-test_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redisson$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/classes/redisson$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redisson$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/classes/redisson$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/classes/Helper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redisson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/classes/redisson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redisson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/maksimustinov/Documents/WORK/HealthLinx/_SOURCE CODE/redisson-sbt-test/target/scala-2.11/classes/redisson.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
